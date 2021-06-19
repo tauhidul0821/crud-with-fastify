@@ -1,0 +1,17 @@
+{
+  "name": "crud-with-fastify",
+  "version": "1.0.0",
+  "description": "this is crud functionality of fastify api",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "keywords": [],
+  "author": "Tauhidul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.18.0",
+    "fastify-swagger": "^4.7.0",
+    "uuid": "^8.3.2"
+  }
+}
